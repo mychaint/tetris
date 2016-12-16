@@ -1,1 +1,3 @@
 *.suo
+/RussianCube/bin/
+/RussianCube/obj/
